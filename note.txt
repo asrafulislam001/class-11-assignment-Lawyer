@@ -1,0 +1,11 @@
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+color:
+	blue: #204f87
+	yellow: #f2622c
+	light gray: #b0b0b1
+
+	36 - 22
+	24 - 18
+	c padding 50 60

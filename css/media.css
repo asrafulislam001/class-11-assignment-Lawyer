@@ -1,0 +1,531 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+
+/*common heading part start*/
+.c-heading h1{
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+/*  header part start*/
+header .navbar .cu-navbar{
+  text-align: right;
+}
+
+/*slider part start*/
+.slider .inner-slider h1{
+  font-size: 32px;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.slider .inner-slider i{
+  font-size: 22px;
+  color: #fff;
+  padding-bottom: 60px;
+}
+
+/*who we part start*/
+.who-we{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.who-we .who-we-text{
+  padding-top: 20px;
+}
+.who-we .who-we-text p span{
+  padding-top: 20px;
+}
+.who-we .who-we-image{
+  display: flex;
+  justify-content: center;
+}
+.who-we .who-we-image img{
+  margin-top: 20px;
+}
+
+/*we do part start*/
+.we-dow{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.we-dow .c-heading h1{
+  padding-bottom: 40px;
+}
+.we-dow .card{
+  margin-top: 20px;
+}
+.we-dow .card .card-link i{
+  font-size: 22px;
+}
+
+/*attorneys part start*/
+.attorneys{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.attorneys .attorneys-text .c-heading{
+  padding-top: 40px;
+}
+.attorneys .attorneys-text p{
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.attorneys .attorneys-text a{
+  font-size: 16px;
+}
+.attorneys .attorneys-images .card{
+  margin-top: 20px;
+}
+.attorneys .attorneys-images .card .card-img-overlay .card-title{
+  font-size: 18px;
+}
+
+/*languages part start*/
+.languages{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.inner-language{
+  margin-top: 40px;
+}
+.languages .inner-language h2{
+  font-size: 18px;
+}
+.languages .inner-language p span{
+  margin-top: 20px;
+}
+.languages .inner-language a{
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+/*contact part start*/
+.contact{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.contact .contact-form .form-control{
+  margin-bottom: 20px;
+}
+
+
+/*footer part start*/
+footer{
+  padding: 20px 0;
+}
+
+  
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  /*common heading part start*/
+.c-heading h1{
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+/*  header part start*/
+header .navbar .cu-navbar{
+  text-align: right;
+}
+
+/*slider part start*/
+.slider .inner-slider h1{
+  font-size: 32px;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.slider .inner-slider i{
+  font-size: 22px;
+  color: #fff;
+  padding-bottom: 60px;
+}
+
+/*who we part start*/
+.who-we{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.who-we .who-we-text{
+  padding-top: 20px;
+}
+.who-we .who-we-text p span{
+  padding-top: 20px;
+}
+.who-we .who-we-image{
+  display: flex;
+  justify-content: center;
+}
+.who-we .who-we-image img{
+  margin-top: 20px;
+}
+
+/*we do part start*/
+.we-dow{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.we-dow .c-heading h1{
+  padding-bottom: 40px;
+}
+.we-dow .card{
+  margin-top: 20px;
+}
+.we-dow .card .card-link i{
+  font-size: 22px;
+}
+
+/*attorneys part start*/
+.attorneys{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.attorneys .attorneys-text .c-heading{
+  padding-top: 40px;
+}
+.attorneys .attorneys-text p{
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.attorneys .attorneys-text a{
+  font-size: 16px;
+}
+.attorneys .attorneys-images .card{
+  margin-top: 20px;
+}
+.attorneys .attorneys-images .card .card-img-overlay .card-title{
+  font-size: 18px;
+}
+
+/*languages part start*/
+.languages{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.inner-language{
+  margin-top: 40px;
+}
+.languages .inner-language h2{
+  font-size: 18px;
+}
+.languages .inner-language p span{
+  margin-top: 20px;
+}
+.languages .inner-language a{
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+/*contact part start*/
+.contact{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.contact .contact-form .form-control{
+  margin-bottom: 20px;
+}
+
+
+/*footer part start*/
+footer{
+  padding: 20px 0;
+}
+
+  
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  /*common heading part start*/
+.c-heading h1{
+  font-size: 30px;
+  padding-top: 25px;
+  padding-bottom: 35px;
+}
+
+/*  header part start*/
+header .navbar .cu-navbar{
+  text-align: right;
+}
+
+/*slider part start*/
+.slider .inner-slider h1{
+  font-size: 45px;
+  color: #fff;
+  padding-top: 60px;
+  padding-bottom: 50px;
+}
+.slider .inner-slider i{
+  font-size: 25px;
+  color: #fff;
+  padding-bottom: 60px;
+}
+
+/*who we part start*/
+.who-we{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.who-we .who-we-text{
+  padding-top: 25px;
+}
+.who-we .who-we-text p span{
+  padding-top: 25px;
+}
+.who-we .who-we-image{
+  display: flex;
+  justify-content: center;
+}
+.who-we .who-we-image img{
+  margin-top: 25px;
+}
+
+/*we do part start*/
+.we-dow{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.we-dow .c-heading h1{
+  padding-bottom: 50px;
+}
+.we-dow .card{
+  margin-top: 25px;
+}
+.we-dow .card .card-link i{
+  font-size: 25px;
+}
+
+/*attorneys part start*/
+.attorneys{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.attorneys .attorneys-text .c-heading{
+  padding-top: 50px;
+}
+.attorneys .attorneys-text p{
+  padding-top: 25px;
+  padding-bottom: 35px;
+}
+.attorneys .attorneys-text a{
+  font-size: 18px;
+}
+.attorneys .attorneys-images .card{
+  margin-top: 25px;
+}
+.attorneys .attorneys-images .card .card-img-overlay .card-title{
+  font-size: 20px;
+}
+
+/*languages part start*/
+.languages{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.inner-language{
+  margin-top: 50px;
+}
+.languages .inner-language h2{
+  font-size: 20px;
+}
+.languages .inner-language p span{
+  margin-top: 25px;
+}
+.languages .inner-language a{
+  font-size: 18px;
+  margin-top: 25px;
+}
+
+/*contact part start*/
+.contact{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.contact .contact-form .form-control{
+  margin-bottom: 30px;
+}
+
+
+/*footer part start*/
+footer{
+  padding: 30px 0;
+}
+
+  
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+   /*common heading part start*/
+.c-heading h1{
+  font-size: 30px;
+  padding-top: 25px;
+  padding-bottom: 35px;
+}
+
+/*  header part start*/
+header .navbar .cu-navbar{
+  text-align: right;
+}
+
+/*slider part start*/
+.slider .inner-slider h1{
+  font-size: 45px;
+  color: #fff;
+  padding-top: 60px;
+  padding-bottom: 50px;
+}
+.slider .inner-slider i{
+  font-size: 25px;
+  color: #fff;
+  padding-bottom: 60px;
+}
+
+/*who we part start*/
+.who-we{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.who-we .who-we-text{
+  padding-top: 25px;
+}
+.who-we .who-we-text p span{
+  padding-top: 25px;
+}
+.who-we .who-we-image{
+  display: flex;
+  justify-content: center;
+}
+.who-we .who-we-image img{
+  margin-top: 25px;
+}
+
+/*we do part start*/
+.we-dow{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.we-dow .c-heading h1{
+  padding-bottom: 50px;
+}
+.we-dow .card{
+  margin-top: 25px;
+}
+.we-dow .card .card-link i{
+  font-size: 25px;
+}
+
+/*attorneys part start*/
+.attorneys{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.attorneys .attorneys-text .c-heading{
+  padding-top: 50px;
+}
+.attorneys .attorneys-text p{
+  padding-top: 25px;
+  padding-bottom: 35px;
+}
+.attorneys .attorneys-text a{
+  font-size: 18px;
+}
+.attorneys .attorneys-images .card{
+  margin-top: 25px;
+}
+.attorneys .attorneys-images .card .card-img-overlay .card-title{
+  font-size: 20px;
+}
+
+/*languages part start*/
+.languages{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.inner-language{
+  margin-top: 50px;
+}
+.languages .inner-language h2{
+  font-size: 20px;
+}
+.languages .inner-language p span{
+  margin-top: 25px;
+}
+.languages .inner-language a{
+  font-size: 18px;
+  margin-top: 25px;
+}
+
+/*contact part start*/
+.contact{
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+.contact .contact-form .form-control{
+  margin-bottom: 30px;
+}
+
+
+/*footer part start*/
+footer{
+  padding: 30px 0;
+}
+  
+}
+
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
